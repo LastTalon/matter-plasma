@@ -1,0 +1,19 @@
+{
+	"name": "matter-plasma Test",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Packages": {
+				"$path": "Packages",
+				"matter-plasma": {
+					"$path": "lib"
+				}
+			},
+
+			"tests": {
+				"$path": "tests"
+			}
+		}
+	}
+}
